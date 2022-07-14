@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mohammad Aquib</h1>
-<h3 align="center">Highly passionate in Machine Learning and Tensorflow.</h3>
+<img src="https://github.com/Md-Aquib/Md-Aquib/blob/main/Hi.png" alt="banner"/>
+
+<!-- <h1 align="center">Hi 👋, I'm Mohammad Aquib</h1>
+<h3 align="center">Highly passionate in Machine Learning and Tensorflow.</h3> -->
 
 
 # :rocket: About Me:
