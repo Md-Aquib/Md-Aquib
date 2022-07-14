@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Aquib</h1>
 <h3 align="center">Highly passionate in Machine Learning and Tensorflow.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-aquib&label=Profile%20views&color=0e75b6&style=flat" alt="md-aquib" /> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/Md-Aquib/](https://github.com/Md-Aquib/)
 
