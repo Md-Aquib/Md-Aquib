@@ -6,7 +6,7 @@
 
 # :rocket: About Me:
 
-- 👨‍💻 All of my projects are available at [https://github.com/Md-Aquib/](https://github.com/Md-Aquib/)
+- 👨‍💻 All of my projects are available at [Personal Website](https://md-aquib.github.io/)
 
 - 📫 How to reach me **aquibali1209@gmail.com**
 
